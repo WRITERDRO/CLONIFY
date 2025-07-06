@@ -42,7 +42,7 @@ LOGGER_ID = int(getenv( "LOGGER_ID" , "-1002267586320"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", "7538572906")
+OWNER_ID = int(getenv("OWNER_ID", "7538572906"))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -55,10 +55,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/WRITERDRO/CLONEFY")
+SOURCE = getenv("SOURCE", "https://github.com/WRITERDRO/CLONIFY")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/WRITERDRO/CLONEFY",
+    "https://github.com/WRITERDRO/CLONIFY",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -74,7 +74,7 @@ GIT_TOKEN = getenv(
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Deva_Empire")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Botts_Supports")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Darklight_Society")
 CHAT = getenv("CHAT", "https://t.me/+MG2n8W4ZpuQwN2Q1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
