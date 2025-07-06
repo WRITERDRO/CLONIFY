@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/INNOCENTBOY2926/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/WRITERDRO/count.svg" />
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋𝐕𝐈𝐏+𝐈𝐍𝐍𝐎𝐂𝐄𝐍𝐓+𝐌𝐔𝐒𝐈𝐂🖤+🥀"></b></h1>
 
@@ -15,7 +15,7 @@
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Silenthrax/CLONEFY"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/WRITERDRO/CLONEFY"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
 
@@ -28,7 +28,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/innocypapatop/VIP_INNNOCENT_MUSIC/blob/Master/sample.env)
+- Get your [Necessary Variables](https://github.com/WRITERDRO/CLONEFY/blob/main/sample.env)
 - Update and install necessary packages :
 `sudo apt update && sudo apt install git curl python3-pip ffmpeg -y`
 
