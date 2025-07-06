@@ -68,7 +68,7 @@ telethon==1.36.0
 tgcrypto==1.2.5
 unidecode
 wget
-yt-dlp
+https://github.com/yt-dlp/yt-dlp
 youtube-search
 youtube-search-python
 flask
