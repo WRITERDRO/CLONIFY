@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","SILENTHRAX")
+OWNER_USERNAME = getenv("OWNER_USERNAME",@btw_deva")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "BESTIE_X_MUSIC_BOT")
 # --------------------------------------------------------
@@ -42,7 +42,7 @@ LOGGER_ID = int(getenv( "LOGGER_ID" , "-1002267586320"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7978151350))
+OWNER_ID = int(getenv("OWNER_ID", "7538572906")
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -55,10 +55,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/Silenthrax/CLONEFY")
+SOURCE = getenv("SOURCE", "https://github.com/WRITERDRO/CLONEFY")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Silenthrax/CLONEFY",
+    "https://github.com/WRITERDRO/CLONEFY",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -73,7 +73,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SilenthrexSilenthrax/TAMANNA_music")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Deva_Empire")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Botts_Supports")
 CHAT = getenv("CHAT", "https://t.me/+MG2n8W4ZpuQwN2Q1")
 # ------------------------------------------------------------------------------
